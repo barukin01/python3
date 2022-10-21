@@ -1,2 +1,2 @@
 # python3
-![srcreenshot](screenshot)
+![srcreenshot](screenshot.PNG)
