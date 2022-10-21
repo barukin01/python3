@@ -1,2 +1,2 @@
 # python3
-!screensho.png
+![screenshot](lab3.jpeg)
